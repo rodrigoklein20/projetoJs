@@ -1,0 +1,26 @@
+{
+  "name": "projetonodejs",
+  "version": "1.0.0",
+  "description": "template de projeto",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoklein20/projetoJs.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "rodrigo f klein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoklein20/projetoJs/issues"
+  },
+  "homepage": "https://github.com/rodrigoklein20/projetoJs#readme",
+  "dependencies": {
+    "pg": "^8.7.3"
+  }
+}
